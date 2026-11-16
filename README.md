@@ -141,4 +141,4 @@ Aplikasi ini menyertakan *Academic Disclaimer* yang menegaskan bahwa seluruh inf
 ## 👥 Tim Pengembang
 
 - **Kelompok 1 — Mata Kuliah Intelligent Tutoring System**
-- Departemen Informatika, Institut Teknologi Sepuluh Nopember (ITS)
+- Sistem Informasi 24, Universitas Bengkulu (UNIB)
